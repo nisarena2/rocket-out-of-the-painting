@@ -18,6 +18,7 @@ whole scene is one thrilling moment, caught mid-burst.
 
 ## Entry
 
-`main.py` copies `entry.png` (1024×1024 JPEG, 356,841 bytes) to
+`main.py` copies `entry.png` (1024×1024 JPEG, 393,826 bytes) to
 `$MAKEFUN_OUTPUT_DIR/entry.png` (default `/output`). Standard library
-only, no network, deterministic: two runs write identical bytes.
+only, no network, deterministic: two runs write identical bytes. The
+image was made for this contest: a painting that cannot stay a painting.
